@@ -6,7 +6,17 @@
     "size": 10697195,
     "notes": "Instalador completo PULSE-Setup.exe; corrigidos sons do Essential Keys que saiam mudos ou desafinados (Alto Sax, Timpani, Banjo, Flauta, cordas...); botao direito no Tocar do pad liga a um botao/pad/pedal do teclado; Lirakeys removidos."
   },
-  "packs": [],
+  "packs": [
+    {
+      "id": "teclados-essential-keys",
+      "name": "Teclados: Essential Keys (60 instrumentos)",
+      "version": 1,
+      "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/pack-teclados-essential-keys-1/teclados-essential-keys-1.zip",
+      "sha256": "48eaf280ddbc7b1b342fac3f7c25e66134e273072a42873fdbc8d43e12138350",
+      "size": 302029371,
+      "dest": "Instrumentos"
+    }
+  ],
   "setup": {
     "version": "1.2.1",
     "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.1/PULSE-Setup.exe",
