@@ -1,10 +1,10 @@
 {
   "app": {
-    "version": "1.2.2",
-    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.2/PULSE-app-1.2.2.zip",
-    "sha256": "251cbd6b5b9798c0cd4d259d5162b6103dff3583705deb48eb3e09e84614f9f4",
-    "size": 10697419,
-    "notes": "Abre em tela cheia (maximizado), a barra de cima sempre visivel; sons tambem disponiveis como pacotes (Ajustes > Atualizacoes > Instalar)."
+    "version": "1.2.3",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.3/PULSE-app-1.2.3.zip",
+    "sha256": "65f9c6003376632989585ea231a62883d7fc19cc518bd522307cde2fd8e7aa92",
+    "size": 10715688,
+    "notes": "Menos atraso entre a tecla e o som: o PULSE escolhe sozinho a saida de audio mais rapida (ASIO ou modo exclusivo do Windows, ~10 ms) e guarda a escolha. Ajustes > Audio mostra o atraso e tem o botao Baixa latencia."
   },
   "packs": [
     {
@@ -36,9 +36,9 @@
     }
   ],
   "setup": {
-    "version": "1.2.2",
-    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.2/PULSE-Setup.exe",
-    "sha256": "0c13c5f4bb072b7471f0788c09adb3c7b9db3ced43e3b100f931e702ce447ae8",
-    "size": 1512515430
+    "version": "1.2.3",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.3/PULSE-Setup.exe",
+    "sha256": "d3247b8740a581f45b5c24d7e2b893657129787aa44b85757cca0793885c114b",
+    "size": 1512533901
   }
 }

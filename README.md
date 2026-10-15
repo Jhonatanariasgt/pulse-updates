@@ -5,7 +5,7 @@ O código-fonte fica em outro repositório, que é privado.
 
 ## Instalar numa máquina nova
 
-1. Baixe o instalador: **[PULSE-Setup.exe](https://github.com/Jhonatanariasgt/pulse-updates/releases/latest/download/PULSE-Setup.exe)** (1,4 GB, versão 1.2.2)
+1. Baixe o instalador: **[PULSE-Setup.exe](https://github.com/Jhonatanariasgt/pulse-updates/releases/latest/download/PULSE-Setup.exe)** (1,4 GB, versão 1.2.3)
    (programa, sons, presets e manual — tudo num arquivo só).
 2. Rode o instalador e clique em **Instalar**. Se aparecer "O Windows protegeu o computador", clique em
    **Mais informações** e depois em **Executar assim mesmo**. Não precisa de administrador.
