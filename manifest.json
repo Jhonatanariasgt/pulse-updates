@@ -24,6 +24,15 @@
       "sha256": "08d88cdf2a867cbb78b16ab480b3f062bb1a0973f1c0a12d5e5eeb79e0b1ed53",
       "size": 1041322407,
       "dest": "Bateria"
+    },
+    {
+      "id": "pedais",
+      "name": "Imagens dos pedais",
+      "version": 1,
+      "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/pack-pedais-1/pedais-1.zip",
+      "sha256": "0e22a6c53ec98e6ea2ca652866bcb73357b34fdf71933c1f62709327e16aa891",
+      "size": 147513952,
+      "dest": "Pedais"
     }
   ],
   "setup": {
