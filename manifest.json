@@ -1,10 +1,10 @@
 {
   "app": {
-    "version": "1.2.1",
-    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.1/PULSE-app-1.2.1.zip",
-    "sha256": "6f7e5be041a3ff1ed063ac96f916fef718bf4f92d57722f56cc3c87a6077f938",
-    "size": 10697195,
-    "notes": "Instalador completo PULSE-Setup.exe; corrigidos sons do Essential Keys que saiam mudos ou desafinados (Alto Sax, Timpani, Banjo, Flauta, cordas...); botao direito no Tocar do pad liga a um botao/pad/pedal do teclado; Lirakeys removidos."
+    "version": "1.2.2",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.2/PULSE-app-1.2.2.zip",
+    "sha256": "251cbd6b5b9798c0cd4d259d5162b6103dff3583705deb48eb3e09e84614f9f4",
+    "size": 10697419,
+    "notes": "Abre em tela cheia (maximizado), a barra de cima sempre visivel; sons tambem disponiveis como pacotes (Ajustes > Atualizacoes > Instalar)."
   },
   "packs": [
     {
@@ -36,9 +36,9 @@
     }
   ],
   "setup": {
-    "version": "1.2.1",
-    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.1/PULSE-Setup.exe",
-    "sha256": "e8f8ef4239de8e81f278ca2fd28707f3496bf3add7ad9bf601619c384eaf0859",
-    "size": 1512514782
+    "version": "1.2.2",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.2/PULSE-Setup.exe",
+    "sha256": "0c13c5f4bb072b7471f0788c09adb3c7b9db3ced43e3b100f931e702ce447ae8",
+    "size": 1512515430
   }
 }
