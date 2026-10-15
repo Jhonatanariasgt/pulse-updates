@@ -1,10 +1,10 @@
 {
   "app": {
-    "version": "1.0.0",
-    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.0.0/PULSE-app-1.0.0.zip",
-    "sha256": "a4088da3a6ee2b90f84a6ecb0366075e0337cda233febd269725c0c2fbe34c27",
-    "size": 10556756,
-    "notes": "Primeira versao: Ao Vivo, pedais do ORBIT, presets, varios teclados MIDI, atualizador"
+    "version": "1.1.0",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.1.0/PULSE-app-1.1.0.zip",
+    "sha256": "821fbd7b6dfa431063a8a06958b77e3350e497abd8f8e4a639ab8919a20f4cbd",
+    "size": 10582677,
+    "notes": "Bateria propria (12 pads com kit, peca, volume e EQ), Pad continuo com 4 timbres, faders que so respondem na barra"
   },
   "packs": []
 }
