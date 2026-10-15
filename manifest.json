@@ -1,4 +1,10 @@
 {
-  "app": null,
+  "app": {
+    "version": "1.0.0",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.0.0/PULSE-app-1.0.0.zip",
+    "sha256": "a4088da3a6ee2b90f84a6ecb0366075e0337cda233febd269725c0c2fbe34c27",
+    "size": 10556756,
+    "notes": "Primeira versao: Ao Vivo, pedais do ORBIT, presets, varios teclados MIDI, atualizador"
+  },
   "packs": []
 }
