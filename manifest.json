@@ -1,10 +1,16 @@
 {
   "app": {
-    "version": "1.2.0",
-    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.0/PULSE-app-1.2.0.zip",
-    "sha256": "967ec5c342432854346f9d58b8a70048aee377f0317851c7237faacc6196dfc9",
-    "size": 10632402,
-    "notes": "Bateria 99 Drum Pads com pedais; teclados em SFZ (carregam mais rapido); luz PED e medidor de CPU no topo; opcao de pedal de sustain invertido; abas compactas em telas pequenas."
+    "version": "1.2.1",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.1/PULSE-app-1.2.1.zip",
+    "sha256": "6f7e5be041a3ff1ed063ac96f916fef718bf4f92d57722f56cc3c87a6077f938",
+    "size": 10697195,
+    "notes": "Instalador completo PULSE-Setup.exe; corrigidos sons do Essential Keys que saiam mudos ou desafinados (Alto Sax, Timpani, Banjo, Flauta, cordas...); botao direito no Tocar do pad liga a um botao/pad/pedal do teclado; Lirakeys removidos."
   },
-  "packs": []
+  "packs": [],
+  "setup": {
+    "version": "1.2.1",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.1/PULSE-Setup.exe",
+    "sha256": "e8f8ef4239de8e81f278ca2fd28707f3496bf3add7ad9bf601619c384eaf0859",
+    "size": 1512514782
+  }
 }
