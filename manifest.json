@@ -1,10 +1,10 @@
 {
   "app": {
-    "version": "1.1.0",
-    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.1.0/PULSE-app-1.1.0.zip",
-    "sha256": "8a8d67f2a06d8edde70b4337d5d63b7bac207b72cf9924b7be067732b017b94f",
-    "size": 10582942,
-    "notes": "Bateria propria (12 pads com kit, peca, volume e EQ), Pad continuo com 4 timbres, faders que so respondem na barra, atualizador mais rapido"
+    "version": "1.2.0",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.0/PULSE-app-1.2.0.zip",
+    "sha256": "967ec5c342432854346f9d58b8a70048aee377f0317851c7237faacc6196dfc9",
+    "size": 10632402,
+    "notes": "Bateria 99 Drum Pads com pedais; teclados em SFZ (carregam mais rapido); luz PED e medidor de CPU no topo; opcao de pedal de sustain invertido; abas compactas em telas pequenas."
   },
   "packs": []
 }
