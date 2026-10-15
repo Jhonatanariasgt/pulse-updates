@@ -2,9 +2,9 @@
   "app": {
     "version": "1.1.0",
     "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.1.0/PULSE-app-1.1.0.zip",
-    "sha256": "821fbd7b6dfa431063a8a06958b77e3350e497abd8f8e4a639ab8919a20f4cbd",
-    "size": 10582677,
-    "notes": "Bateria propria (12 pads com kit, peca, volume e EQ), Pad continuo com 4 timbres, faders que so respondem na barra"
+    "sha256": "8a8d67f2a06d8edde70b4337d5d63b7bac207b72cf9924b7be067732b017b94f",
+    "size": 10582942,
+    "notes": "Bateria propria (12 pads com kit, peca, volume e EQ), Pad continuo com 4 timbres, faders que so respondem na barra, atualizador mais rapido"
   },
   "packs": []
 }
