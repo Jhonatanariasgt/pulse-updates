@@ -1,10 +1,10 @@
 {
   "app": {
-    "version": "1.2.6",
-    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.6/PULSE-app-1.2.6.zip",
-    "sha256": "c284cf7d55ea2f076cb99a35b5c7e039631e74d9e98d0f06228c1d0f0ec5885c",
-    "size": 10847767,
-    "notes": "PULSE 1.2.6: Divisao do teclado (cada parte do teclado toca um ou mais instrumentos); pads de bateria aprendem uma tecla, pad ou botao do teclado (botao direito); faders dos Ajustes so mudam arrastando; instrumentos usam metade da memoria; modo leve de video para PC com pouca memoria (~50 MB ao abrir); novo instalador PULSE-Setup-Leve para computador simples."
+    "version": "1.2.7",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.7/PULSE-app-1.2.7.zip",
+    "sha256": "de63386a02122b5a0c85b8c1667054711f8ba2e9d8ff0fef79a82b26119a604d",
+    "size": 10852924,
+    "notes": "Aviso de atualizacao bem visivel: janela com o que mudou, botao verde no topo e bolinha em Ajustes"
   },
   "packs": [
     {
@@ -36,15 +36,15 @@
     }
   ],
   "setup": {
-    "version": "1.2.6",
-    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.6/PULSE-Setup.exe",
-    "sha256": "e9afc52fb72a27db15fd271ebff5711cab367c6b654eb03c57c5bdc57349d769",
-    "size": 951233299
+    "version": "1.2.7",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.7/PULSE-Setup.exe",
+    "sha256": "8f1e57eb55b03832f7caac2cf62cf0e87e01ac41e3f6547bfc4445ec7faad176",
+    "size": 951238456
   },
   "setupLeve": {
-    "version": "1.2.6",
-    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.6/PULSE-Setup-Leve.exe",
-    "sha256": "91fd00709ac7613faf1a7690134eb74ba7cf87e8e2b6aaf1a7462ada68e74f92",
-    "size": 197847687
+    "version": "1.2.7",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.7/PULSE-Setup-Leve.exe",
+    "sha256": "5a611f617c8e52128192aa05c447b2beb9e4696d3a2e9e35463e93cb315e497d",
+    "size": 197852844
   }
 }
