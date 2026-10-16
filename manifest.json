@@ -28,10 +28,10 @@
     {
       "id": "pedais",
       "name": "Imagens dos pedais",
-      "version": 1,
-      "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/pack-pedais-1/pedais-1.zip",
-      "sha256": "0e22a6c53ec98e6ea2ca652866bcb73357b34fdf71933c1f62709327e16aa891",
-      "size": 147513952,
+      "version": 2,
+      "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/pack-pedais-2/pedais-2.zip",
+      "sha256": "1467956c7c62b0df6e73dbcb9bf82b52d40770e53e1bfef4c672066d2ce1fe4d",
+      "size": 153277127,
       "dest": "Pedais"
     }
   ],
