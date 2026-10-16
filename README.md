@@ -5,8 +5,10 @@ O código-fonte fica em outro repositório, que é privado.
 
 ## Instalar numa máquina nova
 
-1. Baixe o instalador: **[PULSE-Setup.exe](https://github.com/Jhonatanariasgt/pulse-updates/releases/latest/download/PULSE-Setup.exe)** (0,9 GB, versão 1.2.5)
+1. Baixe o instalador: **[PULSE-Setup.exe](https://github.com/Jhonatanariasgt/pulse-updates/releases/latest/download/PULSE-Setup.exe)** (0,9 GB, versão 1.2.6)
    (programa, sons, presets e manual — tudo num arquivo só).
+   Computador simples (2 GB de memória, disco pequeno)? Use o **[PULSE-Setup-Leve.exe](https://github.com/Jhonatanariasgt/pulse-updates/releases/latest/download/PULSE-Setup-Leve.exe)** (188 MB):
+   43 timbres + 1 piano, bateria e pad contínuo; deixa de fora os pianos de cauda grandes.
 2. Rode o instalador e clique em **Instalar**. Se aparecer "O Windows protegeu o computador", clique em
    **Mais informações** e depois em **Executar assim mesmo**. Não precisa de administrador.
 3. Depois disso, o PULSE se atualiza sozinho (*Ajustes → Atualizações*).
