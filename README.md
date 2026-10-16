@@ -17,7 +17,7 @@ O código-fonte fica em outro repositório, que é privado.
 |---|---|---|
 | `PULSE-Setup.exe` (Releases) | programa + sons + presets + manual | instalação nova (ou reinstalar: o que já está igual é pulado) |
 | `PULSE-app-<versão>.zip` (Releases) | só o programa | atualizador do app |
-| pacotes de sons (Releases `pack-*`) | teclados (Essential Keys), bateria (kits SF2 + 99 Drum Pads), imagens dos pedais | atualizador do app: instala o que faltar em a pasta `PULSE/Sons` |
+| pacotes de sons (Releases `pack-*`) | teclados (Essential Keys), bateria (99 Drum Pads), imagens dos pedais | atualizador do app: instala o que faltar em a pasta `PULSE/Sons` |
 | `manifest.json` | versão atual, links e SHA-256 | atualizador do app |
 
 Já tem o PULSE instalado mas sem os sons? Abra *Ajustes → Atualizações → Verificar* e clique em **Instalar**:

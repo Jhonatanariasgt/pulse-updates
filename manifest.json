@@ -17,15 +17,6 @@
       "dest": "Instrumentos"
     },
     {
-      "id": "bateria",
-      "name": "Bateria: kits SF2 + 99 Drum Pads",
-      "version": 1,
-      "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/pack-bateria-1/bateria-1.zip",
-      "sha256": "08d88cdf2a867cbb78b16ab480b3f062bb1a0973f1c0a12d5e5eeb79e0b1ed53",
-      "size": 1041322407,
-      "dest": "Bateria"
-    },
-    {
       "id": "pedais",
       "name": "Imagens dos pedais",
       "version": 2,
@@ -33,6 +24,15 @@
       "sha256": "1467956c7c62b0df6e73dbcb9bf82b52d40770e53e1bfef4c672066d2ce1fe4d",
       "size": 153277127,
       "dest": "Pedais"
+    },
+    {
+      "id": "bateria",
+      "name": "Bateria: 99 Drum Pads",
+      "version": 2,
+      "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/pack-bateria-2/bateria-2.zip",
+      "sha256": "e34a55b9d256a58a96b4d718733217e9b94385cd2a9eb4012f7878436949b27b",
+      "size": 474043029,
+      "dest": "Bateria"
     }
   ],
   "setup": {
