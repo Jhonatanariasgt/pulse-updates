@@ -1,10 +1,10 @@
 {
   "app": {
-    "version": "1.2.4",
-    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.4/PULSE-app-1.2.4.zip",
-    "sha256": "272d63dbe3fb5e621354791b800bec261c9ec5270b9459b3a0c6cb8b902d107a",
-    "size": 10822056,
-    "notes": "Seletor de teclado em cada linha (Ao Vivo); bateria com ate 2 efeitos por pad e 2 gerais; efeitos novos do ORBIT (delays TimeLine, wah/filtros, pitch: whammy, harmonizador, oitavador); botoes dos pads quadrados."
+    "version": "1.2.5",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.5/PULSE-app-1.2.5.zip",
+    "sha256": "7330d53538c88819707f1aebd5be97557d3df96a84a2a40b57f0166d36b72bcf",
+    "size": 10821821,
+    "notes": "Bateria agora vem so com a biblioteca 99 Drum Pads (instalador bem menor). Kits SF2 extras: coloque em PULSE\\Sons\\Bateria."
   },
   "packs": [
     {
@@ -36,9 +36,9 @@
     }
   ],
   "setup": {
-    "version": "1.2.4",
-    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.4/PULSE-Setup.exe",
-    "sha256": "7c237fca81f4560600ed62e18ca829ef200931ac0168e242d10db9592a335d3a",
-    "size": 1518495545
+    "version": "1.2.5",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.5/PULSE-Setup.exe",
+    "sha256": "fe85fc27a4460854a438832361ea5ee5f518ce34c83fb1b769a80c44cd11e73f",
+    "size": 951206059
   }
 }
