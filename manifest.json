@@ -1,10 +1,10 @@
 {
   "app": {
-    "version": "1.2.3",
-    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.3/PULSE-app-1.2.3.zip",
-    "sha256": "65f9c6003376632989585ea231a62883d7fc19cc518bd522307cde2fd8e7aa92",
-    "size": 10715688,
-    "notes": "Menos atraso entre a tecla e o som: o PULSE escolhe sozinho a saida de audio mais rapida (ASIO ou modo exclusivo do Windows, ~10 ms) e guarda a escolha. Ajustes > Audio mostra o atraso e tem o botao Baixa latencia."
+    "version": "1.2.4",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.4/PULSE-app-1.2.4.zip",
+    "sha256": "272d63dbe3fb5e621354791b800bec261c9ec5270b9459b3a0c6cb8b902d107a",
+    "size": 10822056,
+    "notes": "Seletor de teclado em cada linha (Ao Vivo); bateria com ate 2 efeitos por pad e 2 gerais; efeitos novos do ORBIT (delays TimeLine, wah/filtros, pitch: whammy, harmonizador, oitavador); botoes dos pads quadrados."
   },
   "packs": [
     {
@@ -36,9 +36,9 @@
     }
   ],
   "setup": {
-    "version": "1.2.3",
-    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.3/PULSE-Setup.exe",
-    "sha256": "d3247b8740a581f45b5c24d7e2b893657129787aa44b85757cca0793885c114b",
-    "size": 1512533901
+    "version": "1.2.4",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.4/PULSE-Setup.exe",
+    "sha256": "7c237fca81f4560600ed62e18ca829ef200931ac0168e242d10db9592a335d3a",
+    "size": 1518495545
   }
 }
