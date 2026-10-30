@@ -46,5 +46,12 @@
     "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.7/PULSE-Setup-Leve.exe",
     "sha256": "5a611f617c8e52128192aa05c447b2beb9e4696d3a2e9e35463e93cb315e497d",
     "size": 197852844
+  },
+  "android": {
+    "version": "1.2.7",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.7/PULSE-1.2.7.apk",
+    "sha256": "7f9c0634cda439c25f9c9539815dad502ee03591a640b574878a629b7d0273e3",
+    "size": 44946270,
+    "notes": "Primeira versao para celular: tela propria (Tocar, Linhas, Bateria, Pad, Mais), sons baixados pelo app"
   }
 }

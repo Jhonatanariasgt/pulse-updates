@@ -26,3 +26,11 @@ Já tem o PULSE instalado mas sem os sons? Abra *Ajustes → Atualizações → 
 o PULSE baixa os pacotes de sons sozinho.
 
 O atualizador só instala o que bater com o SHA-256 do `manifest.json`.
+
+## Celular (Android)
+
+1. No celular, baixe o **[PULSE.apk](https://github.com/Jhonatanariasgt/pulse-updates/releases/latest/download/PULSE.apk)**.
+2. Toque no arquivo baixado e em **Instalar** (o Android pede para permitir instalar apps do navegador).
+3. Abra o PULSE e toque em **Mais > Sons > Baixar agora** para baixar os teclados, a bateria e os pedais (~890 MB, use Wi-Fi).
+
+Precisa de Android 8.0 ou mais novo.
