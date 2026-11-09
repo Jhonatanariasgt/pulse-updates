@@ -33,6 +33,15 @@
       "sha256": "e34a55b9d256a58a96b4d718733217e9b94385cd2a9eb4012f7878436949b27b",
       "size": 474043029,
       "dest": "Bateria"
+    },
+    {
+      "id": "kits-worship",
+      "name": "Bateria: Kits Worship (10 kits prontos)",
+      "version": 1,
+      "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/pack-kits-worship-1/kits-worship-1.zip",
+      "sha256": "9fb446ead67cb117f9c6843f830e5667743603aee427f5068517559b53339e31",
+      "size": 17466397,
+      "dest": "Bateria"
     }
   ],
   "setup": {
