@@ -1,10 +1,10 @@
 {
   "app": {
-    "version": "1.2.7",
-    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.7/PULSE-app-1.2.7.zip",
-    "sha256": "de63386a02122b5a0c85b8c1667054711f8ba2e9d8ff0fef79a82b26119a604d",
-    "size": 10852924,
-    "notes": "Aviso de atualizacao bem visivel: janela com o que mudou, botao verde no topo e bolinha em Ajustes"
+    "version": "1.2.8",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.8/PULSE-app-1.2.8.zip",
+    "sha256": "581fdad2b1959a95cb0aad59c88920b8e57d7db3a3c2a3a624a3e6e256af949b",
+    "size": 10857325,
+    "notes": "Bateria: 10 kits prontos (Kits Worship) para os 12 pads"
   },
   "packs": [
     {
@@ -45,16 +45,16 @@
     }
   ],
   "setup": {
-    "version": "1.2.7",
-    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.7/PULSE-Setup.exe",
-    "sha256": "8f1e57eb55b03832f7caac2cf62cf0e87e01ac41e3f6547bfc4445ec7faad176",
-    "size": 951238456
+    "version": "1.2.8",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.8/PULSE-Setup.exe",
+    "sha256": "9a98ab67214c9d5237f9574c10022ce4c129db3aaf96ffb6522e3987edf35864",
+    "size": 969212905
   },
   "setupLeve": {
-    "version": "1.2.7",
-    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.7/PULSE-Setup-Leve.exe",
-    "sha256": "5a611f617c8e52128192aa05c447b2beb9e4696d3a2e9e35463e93cb315e497d",
-    "size": 197852844
+    "version": "1.2.8",
+    "url": "https://github.com/Jhonatanariasgt/pulse-updates/releases/download/v1.2.8/PULSE-Setup-Leve.exe",
+    "sha256": "ef8d9ef9c1744701850d78983fe665bfdc86d130245e2b97a312681e7b0b2111",
+    "size": 215827293
   },
   "android": {
     "version": "1.2.7",
